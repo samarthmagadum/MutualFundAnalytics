@@ -1,0 +1,15 @@
+DATA QUALITY SUMMARY
+
+1. Loaded all 10 CSV datasets successfully.
+
+2. Verified shapes and datatypes.
+
+3. Checked missing values.
+
+4. Checked duplicate records.
+
+5. Validated AMFI scheme codes.
+
+6. No major ingestion issues found.
+
+Prepared for further analysis.
