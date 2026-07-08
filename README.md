@@ -46,6 +46,7 @@ MutualFundAnalytics/
 ├── data_ingestion.py
 ├── live_nav_fetch.py
 ├── load_to_sqlite.py
+├── etl_pipeline.py
 ├── README.md
 ├── recommender.py
 ├── requirements.txt
